@@ -17,5 +17,5 @@ function deleteFromObjectByKey(object, key) {
   // use delete operator to delete a key from the clone
   delete newObj.key;
   // return the the cloned object
-  return newObj;
+  return object;
 }
