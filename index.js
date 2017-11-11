@@ -1,5 +1,5 @@
 var objects = {
-  
+
 }
 
 function updateObjectWithKeyAndValue(object, key, value) {
